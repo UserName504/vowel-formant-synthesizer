@@ -2,7 +2,7 @@
 
 ![](images/maxpatch.png)
 
-Three resonant bandpass filters, in a parallel setup. The first three formant frequency values of eight vowel sounds are inputs into each of the filters.
+Three resonant bandpass filters, in a parallel setup. The first three formant frequency values of eight vowels are inputs into each of the filters.
 
 The formant frequency values were informed by a [benchmark dataset](https://asa.scitation.org/doi/10.1121/1.1906875).
 
